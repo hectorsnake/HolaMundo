@@ -10,3 +10,15 @@ C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\We
 C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
 C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
 C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\GitHub-hectorsnake\HolaMundo\HolaMundo\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb

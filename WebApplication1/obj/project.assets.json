@@ -13125,11 +13125,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\McKissock\\ejemplos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\GitHub-hectorsnake\\HolaMundo\\HolaMundo\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\McKissock\\ejemplos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\GitHub-hectorsnake\\HolaMundo\\HolaMundo\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\nearbpo\\.nuget\\packages\\",
-      "outputPath": "C:\\McKissock\\ejemplos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\GitHub-hectorsnake\\HolaMundo\\HolaMundo\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
