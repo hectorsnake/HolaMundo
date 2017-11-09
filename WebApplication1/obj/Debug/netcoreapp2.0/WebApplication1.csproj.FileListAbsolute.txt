@@ -1,0 +1,12 @@
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\McKissock\ejemplos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
